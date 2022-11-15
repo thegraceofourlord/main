@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Grace of Our Lord Jesus Christ</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Nov 2022 02:26:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1</generator>
+	<item>
+		<title>What does the lord require of thee?</title>
+		<link>/2022/11/08/what-does-the-lord-require-of-thee/</link>
+					<comments>/2022/11/08/what-does-the-lord-require-of-thee/#comments</comments>
+		
+		<dc:creator><![CDATA[thegraceofourlord]]></dc:creator>
+		<pubDate>Tue, 08 Nov 2022 00:41:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[What doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart and with all thy soul, To keep the commandments of the Lord, and his statutes, which I command [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote">
+<p>W<strong>hat doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart and with all thy soul, To keep the commandments of the Lord, and his statutes, which I command thee this day for thy good?</strong> Deuteronomy 10:12–22 (KJV 1900)</p>
+</blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2022/11/08/what-does-the-lord-require-of-thee/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
