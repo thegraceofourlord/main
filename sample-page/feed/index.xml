@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: The Simplicity in Christ	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://www.thegraceofourlord.com/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.thegraceofourlord.com</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 Nov 2022 01:30:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 </channel>
 </rss>

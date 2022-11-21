@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Grace of Our Lord Jesus Christ</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://www.thegraceofourlord.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.thegraceofourlord.com</link>
 	<description></description>
 	<lastBuildDate>Tue, 08 Nov 2022 02:26:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,16 +18,16 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>What does the lord require of thee?</title>
-		<link>/2022/11/08/what-does-the-lord-require-of-thee/</link>
-					<comments>/2022/11/08/what-does-the-lord-require-of-thee/#comments</comments>
+		<link>https://www.thegraceofourlord.com/2022/11/08/what-does-the-lord-require-of-thee/</link>
+					<comments>https://www.thegraceofourlord.com/2022/11/08/what-does-the-lord-require-of-thee/#comments</comments>
 		
 		<dc:creator><![CDATA[thegraceofourlord]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 00:41:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://www.thegraceofourlord.com/?p=1</guid>
 
 					<description><![CDATA[What doth the Lord thy God require of thee, but to fear the Lord thy God, to walk in all his ways, and to love him, and to serve the Lord thy God with all thy heart and with all thy soul, To keep the commandments of the Lord, and his statutes, which I command [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -36,7 +36,7 @@
 </blockquote>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/11/08/what-does-the-lord-require-of-thee/feed/</wfw:commentRss>
+					<wfw:commentRss>https://www.thegraceofourlord.com/2022/11/08/what-does-the-lord-require-of-thee/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
